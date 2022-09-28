@@ -203,6 +203,7 @@ symbol_key_words = {
     "amper": "&",
     "pipe": "|",
     "dubquote": '"',
+    "quotation": '"',
     "double quote": '"',
     # Currencies
     "dollar": "$",
